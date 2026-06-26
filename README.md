@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Data Science with Python
+- ⚡ I'm interested in creating data visualizations that help people make better decisions.
+
 <!--
 **ancampos/ancampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
